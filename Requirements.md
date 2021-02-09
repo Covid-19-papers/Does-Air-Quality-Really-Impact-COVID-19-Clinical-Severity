@@ -1,5 +1,6 @@
 ----------------------------------------------------------------------------
-Recurrent Graph Neural Network on COVID-19 and NASA Satellite data
+Does Air Quality Really Impact COVID-19 Clinical Severity:
+Coupling NASA Satellite Datasets with Geometric Deep Learning
 ----------------------------------------------------------------------------
 
 Our source code was developed using the following list of software.  
