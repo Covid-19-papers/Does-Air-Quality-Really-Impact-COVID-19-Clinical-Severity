@@ -1,5 +1,5 @@
 # ---------------------------------------------------------
-# Using Recurrent Graph Neural Network on COVID-19 data
+# Does Air Quality Really Impact COVID-19 Clinical Severity
 # ---------------------------------------------------------
 # Based on PyTorch Geometric Temporal 
 # ---------------------------------------------------------
