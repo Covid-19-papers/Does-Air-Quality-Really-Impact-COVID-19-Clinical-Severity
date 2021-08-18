@@ -15,7 +15,7 @@ We encourage the reader to review [our open access paper](https://doi.org/10.114
 The complete software list and requirements are included in the file "Requirements.txt".
 Many thanks to [Benedek Rozemberczki et al](https://arxiv.org/abs/2104.07788), head of project [Pytorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal).
 
-Since methodology was tested on three different US States (California, Pennsylvania and Texas), we include three folders in this package. Each folder contains the datasets of each variable used in the paper.
+Since the methodology was tested on three different US States (California, Pennsylvania and Texas), we include three folders in this package. Each folder contains the datasets of each variable used in the paper.
 
 Results are reproducible by running python source code: Source_Code.py
 
